@@ -2,6 +2,6 @@
 ### Developers' Documentation
 Please check:
 
-[http://intellibon.github.io/](http://intellibon.github.io/)
+[http://chaykev.github.io/intellibon/](http://chaykev.github.io/intellibon/)
 
 Business intelligence for free
